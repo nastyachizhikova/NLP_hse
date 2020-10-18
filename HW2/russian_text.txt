@@ -1,0 +1,23 @@
+ПОПАДАЕШЬ_VERB В_PREP ЛОББИ_NOUN, РЕГИСТРИРУЕШЬСЯ_VERB И_CONJ РАДОСТНО_ADVB СКАЧЕШЬ_VERB К_PREP ПОРТАЛУ_NOUN С_PREP НАДПИСЬЮ_NOUN "ВЫЖИВАНИЕ_NOUN", ПРЕДВКУШАЯ_GRND КАК_CONJ ВЫКОПАЕШЬ_VERB ВСЕ_ADJF АЛМАЗЫ_NOUN МИРА_NOUN И_CONJ УШАТАЕШЬ_VERB ВСЕХ_NOUN НА_PREP ПВП_NOUN
+@
+ТЕБЯ_NPRO ВСТРЕЧАЕТ_VERB НЕБОЛЬШОЙ_ADJF СПАУН_NOUN, ПРЕДСТАВЛЯЮЩИЙ_PRTF ИЗ_PREP СЕБЯ_NPRO ПРЯМОУГОЛЬНЫЙ_ADJF КАМЕННЫЙ_ADJF ЗАБОР_NOUN, ВНУТРИ_PREP КОТОРОГО_CONJ НАТЫКАНЫ_PRTS ДОРОГИ_NOUN И_CONJ ПРИМИТИВНЫЕ_ADJF ПОСТРОЙКИ_NOUN ПОД_PREP ВАРПЫ_NOUN
+@
+НЕМНОГО_ADVB РАЗОЧАРОВАВШИСЬ_GRND В_PREP КРЕАТИВНОСТИ_NOUN МЕСТНОГО_ADJF АДМИНА_NOUN, НАЖИМАЕШЬ_VERB КНОПКУ_NOUN
+@
+ОХЕРЕВАЕШЬ_VERB ОТ_PREP ФАКТА_NOUN, ЧТО_CONJ ТВОЙ_ADJF ИНВЕНТАРЬ_NOUN С_PREP НУЛЕВОЙ_ADJF СЕКУНДЫ_NOUN БЫЛ_VERB ЗАБИТ_PRTS СТРОИТЕЛЬНЫМИ_ADJF РЕСУРСАМИ_NOUN, ЕДОЙ_NOUN, ИНСТРУМЕНТАМИ_NOUN, ОРУЖИЕМ_NOUN И_CONJ БРОНЁЙ_NOUN
+@
+ОСМОТРЕВШИСЬ_GRND, ПОНИМАЕШЬ_VERB ЧТО_CONJ ПОВСЮДУ_ADVB ЛЕТАЮТ_VERB ДОДИКИ_NOUN В_PREP КРЕАТИВЕ_NOUN И_CONJ РАЗБРАСЫВАЮТ_VERB ШАЛКЕРЫ_NOUN НАБИТЫЕ_PRTF ТОПОВЫМИ_ADJF РЕСУРСАМИ_NOUN И_CONJ СНАРЯЖЕНИЕМ_NOUN, СОДЕРЖА_GRND ИСТОРИИ_NOUN, МАТ_NOUN, ДРЕВНЕЕГИПЕТСКИЕ_ADJF СИМВОЛЫ_NOUN И_CONJ ПОДПИСЬ_NOUN СОЗДАВШЕГО_PRTF НАБОР_NOUN ВАСИ_NOUN ПУПКИНА_NOUN
+@
+ВЫБРОСИВ_GRND ВСЁ_ADJF ЭТО_ADJF ДЕРЬМО_NOUN В_PREP БЛИЖАЙШУЮ_ADJF ЛАВОМУСОРКУ_NOUN, РЕШАЕШЬ_VERB ПРОЙТИ_INFN К_PREP БЛИЖАЙШЕМУ_ADJF ВЫХОДУ_NOUN И_CONJ ПЕРЕСЕЧЬ_INFN ГРАНИЦУ_NOUN СПАВНА_NOUN, ДАБЫ_CONJ ПОЙТИ_INFN ДОБЫВАТЬ_INFN ВСЁ_NOUN ПО-НОРМАЛЬНОМУ_ADVB И_CONJ СТРОИТЬ_INFN ДОМ_NOUN
+@
+СТОИЛО_VERB ТЕБЕ_NPRO НА_PREP МИЛЛИМЕТР_NOUN ОТОЙТИ_INFN ОТ_PREP ЗОНЫ_NOUN, КАК_CONJ НА_PREP ТЕБЯ_NPRO ДЕСАНТИРОВАЛИСЬ_VERB ДЕСЯТЬ_NUMR ДОНАТЕРОВ_NOUN В_PREP СВЕТЯЩЕЙСЯ_PRTF ВСЕМИ_ADJF ЦВЕТАМИ_NOUN РАДУГИ_NOUN АЛМАЗНОЙ_ADJF БРОНЕ_NOUN И_CONJ СО_PREP СТЕРЖНЕМ_NOUN КРАЯ_NOUN ВО_PREP ЛБУ_NOUN
+@
+НЕ_PRCL ПОНИМАЯ_GRND ЧТО_CONJ ПРОИСХОДИТ_VERB, ЗА_PREP МГНОВЕНИЕ_NOUN ПОЛУЧАЕШЬ_VERB ЛЮЛЕЙ_NOUN ОТ_PREP КИЛЛАУРЩИКОВ_NOUN ПОД_PREP УЛЮЛЮКАНЬЕ_NOUN БЕГАЮЩИХ_PRTF ВОКРУГ_PREP ДЕГЕНЕРАТОВ_NOUN С_PREP ОДИНАКОВЫМИ_ADJF РОЖАМИ_NOUN НА_PREP СКИНАХ_NOUN И_CONJ В_PREP ДОЛБАНУТОЙ_ADJF ОДЕЖДЕ_NOUN
+@
+ВСЯ_ADJF КАРТА_NOUN ПОКРЫТА_PRTS КОРОБКАМИ_NOUN ИЗ_PREP АЛМАЗОВ_NOUN, РАКЕТАМИ_NOUN ИЗ_PREP ГРЯЗИ_NOUN И_CONJ ГЛИНЫ_NOUN, В_PREP НЕБЕ_NOUN ЛЕТАЮТ_VERB ГЕКТАРЫ_NOUN ПЛОСКИХ_ADJF ОСТРОВОВ_NOUN, СОДЕРЖАЩИЕ_PRTF НА_PREP СЕБЕ_NPRO МАКСИМУМ_NOUN УКРАДЕННЫЙ_PRTF ИЗ_PREP ЮТУБА_NOUN МОДЕРН_ADJF ДОМ_NOUN И_CONJ КОНСТРУКЦИЮ_NOUN ДЛЯ_PREP КОНКУРСА_NOUN СКИНОВ_NOUN
+@
+ПРОБРАВШИСЬ_GRND ТАКИ_PRCL ЧЕРЕЗ_PREP ВСЁ_ADJF ЭТО_ADJF ДЕРЬМО_NOUN НА_PREP МИНИМАЛЬНО_ADVB СВОБОДНУЮ_ADJF ОТ_PREP ГЕНИЯ_NOUN МОЛОДОГО_ADJF ПОКОЛЕНИЯ_NOUN ТЕРРИТОРИЮ_NOUN, НАЧИНАЕШЬ_VERB СТРОИТЬ_INFN ЛАМПОВЫЙ_ADJF ДОМИК_NOUN
+@
+ПЫТАЕШЬСЯ_VERB ПОПРОСИТЬ_INFN ПОМОЩИ_NOUN В_PREP ЧАТЕ_NOUN, ЖАЛУЯСЬ_GRND НА_PREP НЕОПРАВДАННУЮ_ADJF АГРЕССИЮ_NOUN К_PREP ТВОЕЙ_ADJF ПЕРСОНЕ_NOUN
+@
+ПОЛУЧАЕШЬ_VERB БАН_NOUN ОТ_PREP РАНДОМНОГО_ADJF ДОНАТЕРА_NOUN ЗА_PREP ЧИТЫ_NOUN
